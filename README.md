@@ -57,10 +57,10 @@ INTER SUPPORT/
 ## 💾 Database Setup
 
 The application connects to a Microsoft SQL Server database. By default, it expects:
-* **Server Address**: `INTERCABLESRV\SQLEXPRESS`
-* **Database Name**: `EvoIntercable2`
-* **Username**: `sa`
-* **Password**: `1nterC@ble!123`
+* **Server Address**: `##########\SQLEXPRESS`
+* **Database Name**: `##########`
+* **Username**: `##`
+* **Password**: `##########`
 
 Connection settings are defined inside `DatabaseConnector.kt`.
 
