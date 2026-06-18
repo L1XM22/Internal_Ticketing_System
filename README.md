@@ -2,6 +2,8 @@
 
 A desktop-based IT support ticketing and resolution platform developed using **Compose Multiplatform (Kotlin)**, **MS SQL Server**, and the **JavaMail API**. The application serves as an internal ticketing tool for submitting tech support queries, tracking issue resolution, and managing configurations via an Admin Dashboard.
 
+
+(Built With AI ASSISTANCE)
 ---
 
 ## 🚀 Key Features
